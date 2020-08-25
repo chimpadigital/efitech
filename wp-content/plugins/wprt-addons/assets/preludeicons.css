@@ -1,0 +1,479 @@
+@font-face {
+	font-family: 'PreludeIcons';
+	src:url('preludeicons/PreludeIcons.eot');
+	src:url('preludeicons/PreludeIcons.eot?#iefix') format('embedded-opentype'),
+		url('preludeicons/PreludeIcons.woff') format('woff'),
+		url('preludeicons/PreludeIcons.ttf') format('truetype'),
+		url('preludeicons/PreludeIcons.svg#PreludeIcons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="preico-"],
+[class*=" preico-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'PreludeIcons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.preico-salary-1:before {
+  content: "\e901";
+}
+.preico-selection-process:before {
+  content: "\e902";
+}
+.preico-interview-4:before {
+  content: "\e903";
+}
+.preico-women:before {
+  content: "\e904";
+}
+.preico-company:before {
+  content: "\e905";
+}
+.preico-man:before {
+  content: "\e906";
+}
+.preico-strategy:before {
+  content: "\e907";
+}
+.preico-position:before {
+  content: "\e908";
+}
+.preico-contact:before {
+  content: "\e909";
+}
+.preico-salary:before {
+  content: "\e90a";
+}
+.preico-approved:before {
+  content: "\e90b";
+}
+.preico-skills:before {
+  content: "\e90c";
+}
+.preico-briefcase:before {
+  content: "\e90d";
+}
+.preico-recruitment-1:before {
+  content: "\e90e";
+}
+.preico-interview-3:before {
+  content: "\e90f";
+}
+.preico-job-3:before {
+  content: "\e910";
+}
+.preico-clothes:before {
+  content: "\e911";
+}
+.preico-rating:before {
+  content: "\e912";
+}
+.preico-handshake:before {
+  content: "\e913";
+}
+.preico-video-conference-1:before {
+  content: "\e914";
+}
+.preico-resume-1:before {
+  content: "\e915";
+}
+.preico-thinking:before {
+  content: "\e916";
+}
+.preico-job-2:before {
+  content: "\e917";
+}
+.preico-interview-2:before {
+  content: "\e918";
+}
+.preico-notification:before {
+  content: "\e919";
+}
+.preico-career:before {
+  content: "\e91a";
+}
+.preico-microphone:before {
+  content: "\e91b";
+}
+.preico-selection:before {
+  content: "\e91c";
+}
+.preico-hiring-1:before {
+  content: "\e91d";
+}
+.preico-hiring:before {
+  content: "\e91e";
+}
+.preico-job-1:before {
+  content: "\e91f";
+}
+.preico-hired:before {
+  content: "\e920";
+}
+.preico-time:before {
+  content: "\e921";
+}
+.preico-appointment:before {
+  content: "\e922";
+}
+.preico-video-conference:before {
+  content: "\e923";
+}
+.preico-check-list:before {
+  content: "\e924";
+}
+.preico-curriculum:before {
+  content: "\e925";
+}
+.preico-certificate:before {
+  content: "\e926";
+}
+.preico-contract:before {
+  content: "\e927";
+}
+.preico-recruitment:before {
+  content: "\e928";
+}
+.preico-profiles:before {
+  content: "\e929";
+}
+.preico-conversation-1:before {
+  content: "\e92a";
+}
+.preico-approval:before {
+  content: "\e92b";
+}
+.preico-job:before {
+  content: "\e92c";
+}
+.preico-resume:before {
+  content: "\e92d";
+}
+.preico-interview-1:before {
+  content: "\e92e";
+}
+.preico-interview:before {
+  content: "\e92f";
+}
+.preico-conversation:before {
+  content: "\e930";
+}
+.preico-application:before {
+  content: "\e931";
+}
+.preico-personal-profile:before {
+  content: "\e932";
+}
+.preico-website-2:before {
+  content: "\e933";
+}
+.preico-idea:before {
+  content: "\e934";
+}
+.preico-server:before {
+  content: "\e935";
+}
+.preico-promotion:before {
+  content: "\e936";
+}
+.preico-website-1:before {
+  content: "\e937";
+}
+.preico-browser-5:before {
+  content: "\e938";
+}
+.preico-coding-7:before {
+  content: "\e939";
+}
+.preico-browser-4:before {
+  content: "\e93a";
+}
+.preico-analytics-1:before {
+  content: "\e93b";
+}
+.preico-browser-3:before {
+  content: "\e93c";
+}
+.preico-browser-2:before {
+  content: "\e93d";
+}
+.preico-analytics:before {
+  content: "\e93e";
+}
+.preico-filter:before {
+  content: "\e93f";
+}
+.preico-optimization:before {
+  content: "\e940";
+}
+.preico-landing-page:before {
+  content: "\e941";
+}
+.preico-cloud-computing-1:before {
+  content: "\e942";
+}
+.preico-responsive:before {
+  content: "\e943";
+}
+.preico-algorithm:before {
+  content: "\e944";
+}
+.preico-browser-1:before {
+  content: "\e945";
+}
+.preico-coding-6:before {
+  content: "\e946";
+}
+.preico-coding-5:before {
+  content: "\e947";
+}
+.preico-sitemap:before {
+  content: "\e948";
+}
+.preico-coding-4:before {
+  content: "\e949";
+}
+.preico-cloud-computing:before {
+  content: "\e94a";
+}
+.preico-coding-3:before {
+  content: "\e94b";
+}
+.preico-tools:before {
+  content: "\e94c";
+}
+.preico-api:before {
+  content: "\e94d";
+}
+.preico-coding-2:before {
+  content: "\e94e";
+}
+.preico-browser:before {
+  content: "\e94f";
+}
+.preico-file:before {
+  content: "\e950";
+}
+.preico-error-404:before {
+  content: "\e951";
+}
+.preico-settings:before {
+  content: "\e952";
+}
+.preico-user-1:before {
+  content: "\e953";
+}
+.preico-domain:before {
+  content: "\e954";
+}
+.preico-user:before {
+  content: "\e955";
+}
+.preico-bug:before {
+  content: "\e956";
+}
+.preico-startup-1:before {
+  content: "\e957";
+}
+.preico-login:before {
+  content: "\e958";
+}
+.preico-wireframe:before {
+  content: "\e959";
+}
+.preico-vector:before {
+  content: "\e95a";
+}
+.preico-startup:before {
+  content: "\e95b";
+}
+.preico-display:before {
+  content: "\e95c";
+}
+.preico-blueprint:before {
+  content: "\e95d";
+}
+.preico-coding-1:before {
+  content: "\e95e";
+}
+.preico-laptop:before {
+  content: "\e95f";
+}
+.preico-tap:before {
+  content: "\e960";
+}
+.preico-image:before {
+  content: "\e961";
+}
+.preico-website:before {
+  content: "\e962";
+}
+.preico-coding:before {
+  content: "\e963";
+}
+.preico-speedometer:before {
+  content: "\e964";
+}
+.preico-light-bulb-1:before {
+  content: "\e965";
+}
+.preico-sprout:before {
+  content: "\e966";
+}
+.preico-goal:before {
+  content: "\e967";
+}
+.preico-visualization:before {
+  content: "\e968";
+}
+.preico-trophy:before {
+  content: "\e969";
+}
+.preico-panel:before {
+  content: "\e96a";
+}
+.preico-briefcase1:before {
+  content: "\e96b";
+}
+.preico-bar-chart:before {
+  content: "\e96c";
+}
+.preico-startup1:before {
+  content: "\e96d";
+}
+.preico-dollar:before {
+  content: "\e96e";
+}
+.preico-thinking1:before {
+  content: "\e96f";
+}
+.preico-management:before {
+  content: "\e970";
+}
+.preico-time1:before {
+  content: "\e971";
+}
+.preico-light-bulb:before {
+  content: "\e972";
+}
+.preico-humanpictos:before {
+  content: "\e973";
+}
+.preico-team:before {
+  content: "\e974";
+}
+.preico-package:before {
+  content: "\e975";
+}
+.preico-teamwork:before {
+  content: "\e976";
+}
+.preico-care:before {
+  content: "\e977";
+}
+.preico-handshake1:before {
+  content: "\e978";
+}
+.preico-puzzle:before {
+  content: "\e979";
+}
+.preico-networking-2:before {
+  content: "\e97a";
+}
+.preico-user-11:before {
+  content: "\e97b";
+}
+.preico-user1:before {
+  content: "\e97c";
+}
+.preico-chat:before {
+  content: "\e97d";
+}
+.preico-networking-1:before {
+  content: "\e97e";
+}
+.preico-group:before {
+  content: "\e97f";
+}
+.preico-worldwide:before {
+  content: "\e980";
+}
+.preico-podium:before {
+  content: "\e981";
+}
+.preico-idea-2:before {
+  content: "\e982";
+}
+.preico-laptop-1:before {
+  content: "\e983";
+}
+.preico-target:before {
+  content: "\e984";
+}
+.preico-networking:before {
+  content: "\e985";
+}
+.preico-idea-1:before {
+  content: "\e986";
+}
+.preico-coin-1:before {
+  content: "\e987";
+}
+.preico-presentation:before {
+  content: "\e988";
+}
+.preico-flag:before {
+  content: "\e989";
+}
+.preico-diamond:before {
+  content: "\e98a";
+}
+.preico-like:before {
+  content: "\e98b";
+}
+.preico-settings1:before {
+  content: "\e98c";
+}
+.preico-ipo:before {
+  content: "\e98d";
+}
+.preico-contract1:before {
+  content: "\e98e";
+}
+.preico-line-chart:before {
+  content: "\e98f";
+}
+.preico-coin:before {
+  content: "\e990";
+}
+.preico-idea1:before {
+  content: "\e991";
+}
+.preico-hourglass:before {
+  content: "\e992";
+}
+.preico-laptop1:before {
+  content: "\e993";
+}
+.preico-money-bag:before {
+  content: "\e994";
+}
+.preico-stationery:before {
+  content: "\e995";
+}
+.preico-growth:before {
+  content: "\e996";
+}
+.preico-arrow-right:before {
+  content: "\e900";
+}

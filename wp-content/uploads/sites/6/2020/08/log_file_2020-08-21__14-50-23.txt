@@ -1,0 +1,865 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 5000
+Files info:
+Site URL = http://localhost/proyectos/efitech/monitoreo
+Data file = D:\xampp\htdocs\proyectos\efitech/wp-content/uploads/sites/2/2020/08/demo-content-import-file_2020-08-21__14-50-23.xml
+Widget file = D:\xampp\htdocs\proyectos\efitech/wp-content/uploads/sites/2/2020/08/demo-widgets-import-file_2020-08-21__14-50-23.json
+Customizer file = D:\xampp\htdocs\proyectos\efitech/wp-content/uploads/sites/2/2020/08/demo-customizer-import-file_2020-08-21__14-50-23.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "post-author3" (Medios)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "post-author3" (Medios)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Style
+[WARNING] Failed to import product_cat Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "post-author3" (Medios)
+[WARNING] Failed to import "Field Notes": Invalid post type product
+[WARNING] Failed to import "Home Tumbler": Invalid post type product
+[WARNING] Failed to import "Art Decoration": Invalid post type product
+[WARNING] Failed to import "Black Chair Eames": Invalid post type product
+[WARNING] Failed to import "Wood Desk Lamp": Invalid post type product
+[WARNING] Failed to import "Travel Tumbler": Invalid post type product
+[WARNING] Failed to import "Chair Ottoman": Invalid post type product
+[WARNING] Failed to import "Pour-Over Kettle": Invalid post type product
+[WARNING] Failed to import "Bamboo Longboard": Invalid post type product
+[WARNING] Failed to import "Winston Regal Watch": Invalid post type product
+[WARNING] Failed to import "Beoplay H4": Invalid post type product
+[WARNING] Failed to import "Bottle Grinder": Invalid post type product
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Buscar - Search - Imported
+Categorías - No Title - Imported
+Recent Posts Advanced - Recent Posts - Imported
+Nube de etiquetas - No Title - Imported
+Socials - Follow Us - Imported
+Texto - No Title - Imported
+
+Sidebar Footer 1 : 
+
+Texto - No Title - Imported
+Socials - No Title - Imported
+
+Sidebar Footer 2 : 
+
+Links - About - Imported
+
+Sidebar Footer 3 : 
+
+Links - Products - Imported
+
+Sidebar Footer 4 : 
+
+Links - Resources - Imported
+
+Sidebar Footer 5 : 
+
+Texto - Offices - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

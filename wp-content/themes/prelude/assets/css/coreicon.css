@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Core Icon';
+  src:url('../font/coreicon/coreicon.eot?d7yf1v');
+  src:url('../font/coreicon/coreicon.eot?#iefixd7yf1v') format('embedded-opentype'),
+    url('../font/coreicon/coreicon.woff?d7yf1v') format('woff'),
+    url('../font/coreicon/coreicon.ttf?d7yf1v') format('truetype'),
+    url('../font/coreicon/coreicon.svg?d7yf1v#Pe-icon-7-stroke') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="core-icon-"], [class*=" core-icon-"] {
+  display: inline-block;
+  font-family: 'Core Icon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.core-icon-plane:before {
+  content: "\e900";
+}
+.core-icon-add:before {
+  content: "\e902";
+}
+.core-icon-delete:before {
+  content: "\e903";
+}
+.core-icon-bottom-arrow:before {
+  content: "\e904";
+}
+.core-icon-arrow-right:before {
+  content: "\e901";
+}

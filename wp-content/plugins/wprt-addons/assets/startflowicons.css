@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'PreludeIcons';
+  src:  url('preludeicons/PreludeIcons.eot?ceftyp');
+  src:  url('preludeicons/PreludeIcons.eot?ceftyp#iefix') format('embedded-opentype'),
+    url('preludeicons/PreludeIcons.ttf?ceftyp') format('truetype'),
+    url('preludeicons/PreludeIcons.woff?ceftyp') format('woff'),
+    url('preludeicons/PreludeIcons.svg?ceftyp#PreludeIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="preludeico-"], [class*=" preludeico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'PreludeIcons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.preludeico-barrel:before {
+  content: "\e900";
+}
+.preludeico-bio:before {
+  content: "\e901";
+}
+.preludeico-flask:before {
+  content: "\e902";
+}
+.preludeico-pumpjack:before {
+  content: "\e903";
+}
+.preludeico-barrier:before {
+  content: "\e904";
+}
+.preludeico-barrier-1:before {
+  content: "\e905";
+}
+.preludeico-brick-wall:before {
+  content: "\e906";
+}
+.preludeico-brickwall:before {
+  content: "\e907";
+}
+.preludeico-bucket:before {
+  content: "\e908";
+}
+.preludeico-building:before {
+  content: "\e909";
+}
+.preludeico-construction:before {
+  content: "\e90a";
+}
+.preludeico-cone:before {
+  content: "\e90b";
+}
+.preludeico-construction-1:before {
+  content: "\e90c";
+}
+.preludeico-constructor:before {
+  content: "\e90d";
+}
+.preludeico-container:before {
+  content: "\e90e";
+}
+.preludeico-crane:before {
+  content: "\e90f";
+}
+.preludeico-hook:before {
+  content: "\e910";
+}
+.preludeico-crane-truck:before {
+  content: "\e911";
+}
+.preludeico-crane-1:before {
+  content: "\e912";
+}
+.preludeico-crane-truck-1:before {
+  content: "\e913";
+}
+.preludeico-danger:before {
+  content: "\e914";
+}
+.preludeico-driller:before {
+  content: "\e915";
+}
+.preludeico-excavator:before {
+  content: "\e916";
+}
+.preludeico-fence:before {
+  content: "\e917";
+}
+.preludeico-fuel:before {
+  content: "\e918";
+}
+.preludeico-gas-pipe:before {
+  content: "\e919";
+}
+.preludeico-helmet:before {
+  content: "\e91a";
+}
+.preludeico-industry:before {
+  content: "\e91b";
+}
+.preludeico-knot:before {
+  content: "\e91c";
+}
+.preludeico-ladder:before {
+  content: "\e91d";
+}
+.preludeico-pipe:before {
+  content: "\e91e";
+}
+.preludeico-plan:before {
+  content: "\e91f";
+}
+.preludeico-roller:before {
+  content: "\e920";
+}
+.preludeico-theodolite:before {
+  content: "\e921";
+}
+.preludeico-tractor:before {
+  content: "\e922";
+}
+.preludeico-trowel:before {
+  content: "\e923";
+}
+.preludeico-truck:before {
+  content: "\e924";
+}
+.preludeico-wheelbarrow:before {
+  content: "\e925";
+}
+.preludeico-ruler:before {
+  content: "\e926";
+}
+.preludeico-ruler-1:before {
+  content: "\e927";
+}

@@ -1,0 +1,553 @@
+{
+	"observerUrl": "./preview/dist/twitter-feed-observer.js",
+	"preferences": {
+		"previewUpdateTimeout": 0,
+		"enableCustomCSS": true
+	},
+	"settings": {
+		"tabs": [
+			{
+				"id": "content",
+				"name": "Content",
+				"active": true
+			},
+			{
+				"id": "layout",
+				"name": "Layout"
+			},
+			{
+				"id": "style",
+				"name": "Style"
+			},
+			{
+				"id": "advanced",
+				"name": "Advanced"
+			}
+		],
+		"properties": [
+			{
+				"id": "userId",
+				"name": "Twitter connection",
+				"tab": "content",
+				"type": "token",
+				"token": {
+					"title": "Twitter",
+					"provider": "twitter",
+					"icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMTYgMTYiIGZpbGw9IiNmZmZmZmYiPgogICAgPHBhdGggZD0iTTE2LjA3IDUuMzg4Yy4yMTkgNC44My0zLjM5NSAxMC4yMTYtOS43OSAxMC4yMTZBOS43NjUgOS43NjUgMCAwIDEgMSAxNC4wNmE2Ljk0IDYuOTQgMCAwIDAgNS4xLTEuNDIxIDMuNDQ2IDMuNDQ2IDAgMCAxLTMuMjE4LTIuMzg1Yy41NC4xMDMgMS4wNy4wNzMgMS41NTUtLjA2LTEuNjU2LS4zMy0yLjgtMS44Mi0yLjc2My0zLjQxLjQ2NS4yNTguOTk2LjQxMiAxLjU2LjQzQTMuNDMyIDMuNDMyIDAgMCAxIDIuMTcgMi42MjhhOS43ODggOS43ODggMCAwIDAgNy4xIDMuNTg5QzguNzY2IDQuMDY4IDEwLjQgMiAxMi42MjQgMmMuOTkgMCAxLjg4NS40MTcgMi41MTMgMS4wODRhNi45MjUgNi45MjUgMCAwIDAgMi4xODgtLjgzMyAzLjQ1MiAzLjQ1MiAwIDAgMS0xLjUxNSAxLjkgNi45IDYuOSAwIDAgMCAxLjk3OC0uNTQgNi45NiA2Ljk2IDAgMCAxLTEuNzE4IDEuNzc3eiI+PC9wYXRoPgo8L3N2Zz4="
+				},
+				"caption": "To link your widget to Twitter, please authorize with your Twitter account",
+				"defaultValue": "",
+				"description": "To let our widget access Twitter API and get the required data, you need to login to Twitter with any Twitter account. Click \"Connect to Twitter\" to start. After you do it, you will be able to set the source for your Twitter feed."
+			},
+			{
+				"id": "contentToDisplay",
+				"name": "Content to display",
+				"tab": "content",
+				"type": "select-inline",
+				"defaultValue": "account",
+				"selectInline": {
+					"options": [
+						{
+							"value": "account",
+							"name": "Profile"
+						},
+						{
+							"value": "hashtag",
+							"name": "Hashtag"
+						},
+						{
+							"value": "testimonials",
+							"name": "Testimonials"
+						}
+					]
+				},
+				"description": "Select the kind of content you need to display - Twitter feed by account, by hashtag, Twitter testimonials. With Twitter testimonials, you need to hand-pick Tweets with testimonials about you."
+			},
+			{
+				"id": "account",
+				"name": "Twitter username",
+				"visible": false,
+				"tab": "content",
+				"type": "text",
+				"text": {
+					"placeholder": "@username"
+				},
+				"defaultValue": "@eminem",
+				"description": "Set any Twitter @username to display in the widget."
+			},
+			{
+				"id": "hashtag",
+				"name": "Twitter hashtag",
+				"visible": false,
+				"tab": "content",
+				"type": "tags",
+				"defaultValue": ["#WantAnR8"],
+				"description": "Set any Twitter #hashtag to display in the widget."
+			},
+			{
+				"id": "tweets",
+				"name": "Tweets",
+				"visible": false,
+				"tab": "content",
+				"type": "complex",
+				"complex": {
+					"properties": [
+						{
+							"id": "url",
+							"name": "Tweet URL",
+							"type": "text",
+							"defaultValue": "",
+							"description": "Paste the link to testimonial Tweet to make it display in your widget."
+						},
+						{
+							"id": "rating",
+							"name": "Rating",
+							"type": "select-inline",
+							"selectInline": {
+								"options": [
+									{
+										"value": 0,
+										"name": "none"
+									},
+									{
+										"value": 1,
+										"name": "1"
+									},
+									{
+										"value": 2,
+										"name": "2"
+									},
+									{
+										"value": 3,
+										"name": "3"
+									},
+									{
+										"value": 4,
+										"name": "4"
+									},
+									{
+										"value": 5,
+										"name": "5"
+									}
+								]
+							},
+							"defaultValue": 5,
+							"description": "Set the appropriate rating for the testimonial Tweet. The rating will be displayed as stars."
+						}
+					]
+				},
+				"defaultValue": [
+					{
+						"url": "https://twitter.com/faceaumontblanc/status/1057968602710712320",
+						"rating": 5
+					},
+					{
+						"url": "https://twitter.com/Ladefuss/status/928500573091004416",
+						"rating": 5
+					},
+					{
+						"url": "https://twitter.com/jimmymackin/status/997564897201393664",
+						"rating": 5
+					},
+					{
+						"url": "https://twitter.com/TomasPalurik/status/951766457217638401",
+						"rating": 5
+					},
+					{
+						"url": "https://twitter.com/wallfloweraimee/status/921381729239257089",
+						"rating": 5
+					},
+					{
+						"url": "https://twitter.com/derdrummer/status/944857643050504192",
+						"rating": 5
+					}
+				],
+				"description": "Hand-pick Tweets with testimonials about you and add them to the feed."
+			},
+			{
+				"id": "filters",
+				"name": "Filters",
+				"tab": "content",
+				"type": "subgroup",
+				"visible": false,
+				"subgroup": {
+					"properties": [
+						{
+							"id": "filterByTypes",
+							"name": "Filter by types",
+							"type": "checklist",
+							"checklist": {
+								"options": [
+									{
+										"value": "replies",
+										"name": "Replies"
+									},
+									{
+										"value": "retweets",
+										"name": "Retweets"
+									},
+									{
+										"value": "tweets",
+										"name": "Tweets"
+									}
+								]
+							},
+							"defaultValue": [
+								"replies",
+								"retweets",
+								"tweets"
+							]
+						},
+						{
+							"id": "tweetOptions",
+							"name": "Tweet options",
+							"type": "select",
+							"select": {
+								"options": [
+									{
+										"value": "all",
+										"name": "all"
+									},
+									{
+										"value": "withVideo",
+										"name": "with video"
+									},
+									{
+										"value": "withPhoto",
+										"name": "with photo"
+									}
+								]
+							},
+							"defaultValue": "all"
+						},
+						{
+							"tab": "content",
+							"type": "divider"
+						},
+						{
+							"id": "filterByTags",
+							"name": "Moderation",
+							"type": "select",
+							"select": {
+								"options": [
+									{
+										"value": "none",
+										"name": "don`t moderate"
+									},
+									{
+										"value": "exclude",
+										"name": "exclude"
+									},
+									{
+										"value": "display",
+										"name": "display only"
+									}
+								]
+							},
+							"defaultValue": "none"
+						},
+						{
+							"id": "moderateTags",
+							"name": "@username, #hashtag, tweet ID, keyword",
+							"type": "tags",
+							"visible": false,
+							"defaultValue": []
+						},
+						{
+							"tab": "content",
+							"type": "divider"
+						},
+						{
+							"id": "displayLimit",
+							"name": "Total number of tweets to show",
+							"type": "number",
+							"defaultValue": "",
+							"description": "Set the maximum number of Tweets you need to display. Leave this option empty or \"0\" to show all available Tweets."
+						},
+						{
+							"id": "filterActivity",
+							"name": "Filter activity",
+							"type": "toggle",
+							"defaultValue": false,
+							"visible": false
+						},
+						{
+							"id": "limit",
+							"name": "Number of Tweets loaded",
+							"type": "number",
+							"defaultValue": "",
+							"description": "Set the maximum number of Tweets you need to load. Leave this option empty or \"0\" to show all available Tweets.",
+							"visible": false
+						}
+					]
+				}
+			},
+			{
+				"tab": "content",
+				"type": "divider"
+			},
+			{
+				"id": "lang",
+				"name": "Language",
+				"tab": "content",
+				"type": "select",
+				"select": {
+					"options": [
+						{
+							"value": "en",
+							"name": "English"
+						},
+						{
+							"value": "cz",
+							"name": "Čeština - Czech"
+						},
+						{
+							"value": "da",
+							"name": "Dansk - Danish"
+						},
+						{
+							"value": "de",
+							"name": "Deutsch - German"
+						},
+						{
+							"value": "es",
+							"name": "Español - Spanish"
+						},
+						{
+							"value": "fr",
+							"name": "Français - French"
+						},
+						{
+							"value": "it",
+							"name": "Italiano - Italian"
+						},
+						{
+							"value": "hu",
+							"name": "Magyar - Hungarian"
+						},
+						{
+							"value": "nl",
+							"name": "Nederlands - Dutch"
+						},
+						{
+							"value": "no",
+							"name": "Norsk - Norwegian"
+						},
+						{
+							"value": "pl",
+							"name": "Polski - Polish"
+						},
+						{
+							"value": "pt",
+							"name": "Português - Portuguese"
+						},
+						{
+							"value": "ro",
+							"name": "Română - Romanian"
+						},
+						{
+							"value": "fi",
+							"name": "Suomi - Finnish"
+						},
+						{
+							"value": "sv",
+							"name": "Svenska - Swedish"
+						},
+						{
+							"value": "tr",
+							"name": "Türkçe - Turkish"
+						},
+						{
+							"value": "ru",
+							"name": "Русский - Russian"
+						},
+						{
+							"value": "ar",
+							"name": "العربية - Arabic"
+						},
+						{
+							"value": "hi",
+							"name": "हिन्दी - Hindi"
+						},
+						{
+							"value": "ja",
+							"name": "日本語 - Japanese"
+						},
+						{
+							"value": "zh-cn",
+							"name": "简体中文 - Simplified Chinese"
+						},
+						{
+							"value": "zh-tw",
+							"name": "繁體中文 - Traditional Chinese"
+						}
+					]
+				},
+				"defaultValue": "en",
+				"description": "Choose one of the available languages of widget's UI."
+			},
+			{
+				"id": "widgetTitle",
+				"name": "Feed Title",
+				"tab": "content",
+				"type": "text",
+				"defaultValue": "",
+				"allowEmpty": true,
+				"description": "Set the feed title. URLs, hashtags (with #) and Twitter usernames (with @) will be automatically displayed as clickable links."
+			},
+			{
+				"id": "width",
+				"name": "Width (px, %, auto)",
+				"tab": "layout",
+				"type": "text",
+				"defaultValue": 500,
+				"description": "Set the widget width in pixels. Or set \"auto\" to make it full width."
+			},
+			{
+				"id": "height",
+				"name": "Height (px, auto)",
+				"tab": "layout",
+				"type": "text",
+				"defaultValue": 720,
+				"description": "Set the widget height in pixels. Set \"auto\" to make the widget adapt to content size."
+			},
+			{
+				"id": "headerSettings",
+				"name": "Header settings",
+				"tab": "layout",
+				"type": "subgroup",
+				"subgroup": {
+					"properties": [
+						{
+							"id": "headerVisible",
+							"name": "Show header",
+							"type": "toggle",
+							"defaultValue": true,
+							"description": "Show/hide the header."
+						}
+					]
+				}
+			},
+			{
+				"id": "tweetSettings",
+				"name": "Tweet settings",
+				"visible": false,
+				"tab": "layout",
+				"type": "subgroup",
+				"subgroup": {
+					"properties": [
+						{
+							"id": "tweetParts",
+							"name": "Tweet elements to display",
+							"type": "checklist",
+							"checklist": {
+								"options": [
+									{
+										"value": "author",
+										"name": "Author"
+									},
+									{
+										"value": "date",
+										"name": "Date"
+									},
+									{
+										"value": "twitter-icon",
+										"name": "Twitter Icon"
+									},
+									{
+										"value": "reply",
+										"name": "Reply Action"
+									},
+									{
+										"value": "retweet",
+										"name": "Retweet Action"
+									},
+									{
+										"value": "like",
+										"name": "Like Action"
+									},
+									{
+										"value": "share-button",
+										"name": "Share Button"
+									}
+								]
+							},
+							"defaultValue": [
+								"author",
+								"date",
+								"twitter-icon",
+								"reply",
+								"retweet",
+								"like",
+								"share-button"
+							],
+							"description": "Choose the elements to show/hide for each Tweet in the widget."
+						}
+					]
+				}
+			},
+			{
+				"id": "colorScheme",
+				"name": "Color scheme",
+				"tab": "style",
+				"type": "select-inline",
+				"selectInline": {
+					"options": [
+						{
+							"value": "light",
+							"name": "Light"
+
+						},
+						{
+							"value": "dark",
+							"name": "Dark"
+
+						},
+						{
+							"value": "custom",
+							"name": "Custom"
+
+						}
+					]
+				},
+				"description": "",
+				"defaultValue": "light"
+			},
+			{
+				"id": "accentColor",
+				"name": "Accent color",
+				"tab": "style",
+				"type": "color",
+				"defaultValue": "rgb(29, 161, 242)",
+				"description": "Select the theme color for your widget elements."
+			},
+			{
+				"id": "customBackgroundColorLayout",
+				"name": "Widget background color",
+				"tab": "style",
+				"type": "color",
+				"description": "",
+				"defaultValue": "rgb(250, 250, 250)",
+				"visibility": true
+			},
+			{
+				"id": "customBackgroundColorTweet",
+				"name": "Tweet background color",
+				"tab": "style",
+				"type": "color",
+				"description": "",
+				"defaultValue": "rgb(255, 255, 255)",
+				"visibility": true
+			},
+			{
+				"id": "customTextColor",
+				"name": "Text color",
+				"tab": "style",
+				"type": "color",
+				"description": "",
+				"defaultValue": "rgb(20, 23, 26)",
+				"visibility": true
+			}
+		]
+	}
+}

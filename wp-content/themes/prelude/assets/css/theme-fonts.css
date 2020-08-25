@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Futura PT';
+  font-weight: 300;
+  src: url('../font/futura/FuturaPTLight.eot'),
+    url('../font/futura/FuturaPTLight.woff') format('woff'),
+    url('../font/futura/FuturaPTLight.ttf') format('truetype'),
+    url('../font/futura/FuturaPTLight.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  font-weight: 400;
+  src: url('../font/futura/FuturaPTBook.eot'),
+    url('../font/futura/FuturaPTBook.woff') format('woff'),
+    url('../font/futura/FuturaPTBook.ttf') format('truetype'),
+    url('../font/futura/FuturaPTBook.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  font-weight: 500;
+  src: url('../font/futura/FuturaPTMedium.eot'),
+    url('../font/futura/FuturaPTMedium.woff') format('woff'),
+    url('../font/futura/FuturaPTMedium.ttf') format('truetype'),
+    url('../font/futura/FuturaPTMedium.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  font-weight: 600;
+  src: url('../font/futura/FuturaPTDemi.eot'),
+    url('../font/futura/FuturaPTDemi.woff') format('woff'),
+    url('../font/futura/FuturaPTDemi.ttf') format('truetype'),
+    url('../font/futura/FuturaPTDemi.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  font-weight: 700;
+  src: url('../font/futura/FuturaPTBold.eot'),
+    url('../font/futura/FuturaPTBold.woff') format('woff'),
+    url('../font/futura/FuturaPTBold.ttf') format('truetype'),
+    url('../font/futura/FuturaPTBold.svg') format('svg');
+}
